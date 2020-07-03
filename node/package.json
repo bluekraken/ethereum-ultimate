@@ -1,0 +1,22 @@
+{
+  "name": "ethereum-ultimate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "web3": "1.2.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluekraken/ethereum-ultimate.git"
+  },
+  "author": "Andrew Hearse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluekraken/ethereum-ultimate/issues"
+  },
+  "homepage": "https://github.com/bluekraken/ethereum-ultimate#readme"
+}
